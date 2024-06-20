@@ -12,4 +12,4 @@
 在实验部分，本报告在Flickr8k和Flickr30k数据集上对提出的模型进行了评估。实验结果表明，与Baseline Model相比，基于Transformer的模型和预训练模型在BLEU、ROUGE、METEOR和CIDEr等评价指标上均有显著提升。特别是在引入SCA模块后，模型在描述主题上的准确性得到了进一步提高。
 
 综上所述，本报告通过改进和微调现有的Image Caption方法，提出了一系列有效的模型结构，并在实验中取得了显著的性能提升
-![image](https://github.com/stonewang00/DLproject/assets/84163106/4571b237-b1de-4fbe-9205-e1441667d41a)
+
