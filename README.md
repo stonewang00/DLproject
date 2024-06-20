@@ -2,7 +2,9 @@
 2024Spring Deep Learning Group Project
 
 “看图说话”——Image Caption方法的改进和微调
+
 深度学习第12小组
+
 小组成员：戴子琦 史海秀 汪士栋 吴典儒 宗子睿
 
 随着深度学习技术的发展，图像描述（Image Caption）任务在计算机视觉与自然语言处理交叉领域受到了广泛关注。本报告旨在改进和微调现有的“看图说话”（Image Caption）方法，通过优化Encoder-Decoder架构，引入注意力机制与预训练模型，提升模型在复杂图像语境中的表现能力与泛化能力。
